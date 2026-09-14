@@ -19,3 +19,7 @@ Repository ini digunakan untuk mempelajari dasar-dasar Git dan GitHub, seperti m
 
 - README.md
 - perkenalan.md
+
+## Pembelajaran
+
+Melalui repository ini, saya mempelajari penggunaan version control menggunakan Git serta penyimpanan dan pengelolaan repository menggunakan GitHub.
